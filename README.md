@@ -12,10 +12,13 @@ Built with Visual Studio Code and committed to GitHub, you must be running VS or
 
 
 #### Technology Used
-* [HTML]
-* [CSS]
-* [JavaScript]
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://www.javascript.com)
 * [BootStrap]
 * [GitHub]
 * [GitPod]
 * [Visual.Studio]
+
+##Github Pages Link
+https://thiagodiass.github.io/PortfolioWebSite/
