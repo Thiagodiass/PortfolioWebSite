@@ -15,10 +15,8 @@ Built with Visual Studio Code and committed to GitHub, you must be running VS or
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 * [JavaScript](https://www.javascript.com)
-* [BootStrap]
-* [GitHub]
-* [GitPod]
-* [Visual.Studio]
+* [BootStrap](https://www.w3schools.com/bootstrap/)
+
 
 ##Github Pages Link
 https://thiagodiass.github.io/PortfolioWebSite/
